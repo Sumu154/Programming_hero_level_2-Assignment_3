@@ -1,0 +1,47 @@
+[
+  {
+    "title": "The Theory of Everything",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "isbn": "9780553380163",
+    "description": "An overview of cosmology and black holes.",
+    "copies": 5,
+    "available": true
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "FANTASY",
+    "isbn": "9780747532699",
+    "description": "A young wizard's first year at Hogwarts.",
+    "copies": 10,
+    "available": true
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "isbn": "9780553380164",
+    "description": "Time, black holes, and the universe explained.",
+    "copies": 4,
+    "available": true
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "FANTASY",
+    "isbn": "9780345339683",
+    "description": "A hobbit's journey through Middle-earth.",
+    "copies": 7,
+    "available": false
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "FICTION",
+    "isbn": "9780743273565",
+    "description": "A story of wealth, love, and the American dream.",
+    "copies": 3,
+    "available": true
+  }
+]
